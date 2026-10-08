@@ -72,7 +72,7 @@ knitr::include_graphics(c("OddForm.png","EvenForm.png"))
 
 # Goal
 
-*Develop technology that can assist instructors for large (STEM) classes with providing targeted formative assessment feedback to students, such that instructor burden is similar to small class (~30 students)*
+*Develop and evaluate technology that can assist instructors for large (STEM) classes with providing targeted formative assessment feedback to students, such that instructor burden is similar to small class (~30 students)*
 
 ![image created with assistance of DALL·E 2 by Open AI](DALLE Robot Assist.png){width=40%}
 
