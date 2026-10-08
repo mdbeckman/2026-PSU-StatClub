@@ -1,10 +1,10 @@
 ---
-title: "Joint Mathematics Meetings"
-subtitle: "Washington DC"
+title: "Penn State Statistics Club"
+subtitle: "University Park, PA"
 author: |
   | Matthew Beckman
   | Penn State University
-date: January 6, 2026
+date: October 8, 2026
 output: 
   html_document: 
     css: stylesheet.css
@@ -38,7 +38,7 @@ output:
 ## Contact
 
 Matthew Beckman  
-Assoc Research Professor | Penn State University  
+Research Professor | Penn State University  
 Director | CAUSE  
 
 email: mdb268 [at] psu [dot] edu  
