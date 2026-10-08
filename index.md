@@ -11,7 +11,6 @@ output:
 ---
 
 
-![](docs/qr-code-JMM.png){ width=20% }
 
 ## Evaluating NLP tools designed to assist instructors with formative assessment for large-enrollment STEM classes
 
